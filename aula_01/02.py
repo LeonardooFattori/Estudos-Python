@@ -1,3 +1,5 @@
+# Faça um programa que solicite o nome do aluno, suas notas, e mostre sua média.
+
 nome = input("Digite o nome do aluno: ")
 nota1 = float(input("Digite a nota 1: "))
 nota2 = float(input("Digite a nota 2: "))

@@ -1,3 +1,6 @@
+# Faça um programa que leia dois números inteiros e faça todas as operações aritméticas entre eles, atribuindo
+# o resultado a outras variáveis de resposta. Imprima os resultados.
+
 n1 = int(input("Digite um número: "))
 n2 = int(input("Digite outro número: "))
 

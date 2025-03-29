@@ -1,3 +1,5 @@
+# Faça um programa que leia dois inteiros x e y, e calcule e imprima o valor de z:
+
 x = int(input("Digite o valor de x: "))
 y = int(input("Digite o valor de y: "))
 
